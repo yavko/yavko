@@ -7,6 +7,7 @@ I am just here😐
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/yavko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yavko" height="30" width="40" /></a>
+<a href="https://codepen.io/yavko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="yavko" height="30" width="40" /></a>
 <a href="https://twitter.com/lolyavko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lolyavko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yavko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yavko" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/yavor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yavor" height="30" width="40" /></a>
