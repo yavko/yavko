@@ -15,6 +15,7 @@
 <a href="https://stackoverflow.com/users/14031771" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yavor" height="30" width="40" /></a>
 <a href="https://instagram.com/lolyavko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lolyavko" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCkzwtUZpwRpq9K9pUuv_LrQ?" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yavor kolev" height="30" width="40" /></a>
+<a href="https://namemc.com/profile/Yavko.1" target="blank"><img align="center" src="https://i.imgur.com/AbNAjvJ.png" alt="yavko" height="30" width="30" /></a>
 </p>
 
 
