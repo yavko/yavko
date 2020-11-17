@@ -34,7 +34,7 @@
 
 - Life  
 - School  
-- Making <a href="https://badtiger.tk" target="_blank">Badtiger Website</a>  
+- ~~Making <a href="https://badtiger.tk" target="_blank">Badtiger Website</a>~~
 - Learning React.js
 
 
