@@ -10,8 +10,7 @@
 <p align="left"> <a href="https://twitter.com/lolyavko" target="blank"><img src="https://img.shields.io/twitter/follow/lolyavko?logo=twitter&style=for-the-badge" alt="lolyavko" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<img src="https://i.imgur.com/sV8efFI.png" alt="drawing" width="30"/></h3>
+<h3 align="left">Connect with me:  <img src="https://i.imgur.com/sV8efFI.png" alt="drawing" width="30"/></h3></h3>
 <p align="left">
 <a href="https://codepen.io/yavko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="yavko" height="30" width="40" /></a>
 <a href="https://dev.to/yavko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yavko" height="30" width="40" /></a>
