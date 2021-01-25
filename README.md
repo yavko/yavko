@@ -1,4 +1,4 @@
-### **Hi there 👋, my name is Yavor <img src="https://i.imgur.com/bwUN4tw.png" alt="drawing" width="30"/>**
+# **Hi there 👋, my name is Yavor <img src="https://i.imgur.com/bwUN4tw.png" alt="drawing" width="30"/>**
 
 
 #### I am Someone in the world <img src="https://i.imgur.com/MKMZGzG.png" alt="drawing" width="30"/>
@@ -46,6 +46,4 @@
 - School  
 - Learning React.js
 
-
-
-
+<p><a href="https://www.buymeacoffee.com/yavko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="61.2" width="218" alt="yavko" /></a></p><br><br>
