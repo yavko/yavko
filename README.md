@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Yavko</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavko&label=Profile%20views&color=b992f5&style=flat" alt="yavko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yavko&theme=dracula" alt="yavko" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yavko&theme=dracula" alt="trophies" /></a> </p>
+<p align="left"><img src="https://spotifyreadmewidget.herokuapp.com/api/spotify/now?theme=dracula" alt="spotify" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
