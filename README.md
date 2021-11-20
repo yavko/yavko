@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Yavko</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavko&label=Profile%20views&color=b992f5&style=flat" alt="yavko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yavko&theme=dracula" alt="trophies" /></a> </p>
+  <p align="left"><a href="https://discord.com/users/465960044094160908"><img alt="discord presence" src="https://lanyard-profile-readme.vercel.app/api/465960044094160908?bg=282a36&borderRadius=8px&idleMessage=Idle" /></a></p>
 <p align="left"><img src="https://spotifyreadmewidget.herokuapp.com/api/spotify/now?theme=dracula" alt="spotify" /></p>
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yavko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yavko" height="30" width="40" /></a>
@@ -25,11 +26,21 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yavko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yavko" /></a></p><br><br>
 
+
+ <br />
+<details>
+<summary>Stats:</summary>
+
+<p align="left"> <a href="https://github.com/yavko"><img src="https://github-profile-trophy.vercel.app/?username=yavko&theme=dracula" alt="trophies" /></a> </p>
+
 <p><br /><img align="center" src="https://github-readme-stats.vercel.app/api?username=yavko&show_icons=true&theme=dracula&locale=en" alt="stats" /></p>
 
 <p><br /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavko&theme=dracula" alt="streak" /></p>
 
 <p><br /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavko&show_icons=true&locale=en&theme=dracula" alt="top langs" /></p>
+
+
+</details>
 
 
 </div>
